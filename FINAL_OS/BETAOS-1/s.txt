@@ -1,0 +1,2 @@
+CP proces1 kompro.txt
+GO
